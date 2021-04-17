@@ -1,7 +1,11 @@
 # nacronym
-Names that were formerly acronyms (https://www.urbandictionary.com/define.php?term=nacronym)
+A nacronyms is a name that was formerly an acronym (https://www.urbandictionary.com/define.php?term=nacronym). The intent of this term is to describe names that remain after purposely shedding the original semantics of the spelled-out acronym. 
+
+## Examples
 
 **JILA:** Joint Institute for Laboratory Astrophysics
+
+**KFC:** Kentucky Fried Chicken (https://en.wikipedia.org/wiki/KFC#cite_note-5)
 
 **LaTiS:** LASP Time Series Server
 
