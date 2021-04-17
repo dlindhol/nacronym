@@ -1,12 +1,12 @@
 # nacronym
 Names that were formerly acronyms
 
-*JILA:* Joint Institute for Laboratory Astrophysics
+**JILA:** Joint Institute for Laboratory Astrophysics
 
-*LaTiS:* LASP Time Series Server
+**LaTiS:** LASP Time Series Server
 
-*LLVM:* Low Level Virtual Machine
+**LLVM:** Low Level Virtual Machine
 
-*RMI:* Rocky Mountain Institute
+**RMI:** Rocky Mountain Institute
 
-*SBT:* Simple Build Tool
+**SBT:** Simple Build Tool
