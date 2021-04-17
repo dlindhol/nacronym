@@ -1,5 +1,5 @@
 # nacronym
-Names that were formerly acronyms
+Names that were formerly acronyms (https://www.urbandictionary.com/define.php?term=nacronym)
 
 **JILA:** Joint Institute for Laboratory Astrophysics
 
