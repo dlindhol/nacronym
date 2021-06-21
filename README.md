@@ -3,6 +3,8 @@ A nacronyms is a name that was formerly an acronym (https://www.urbandictionary.
 
 ## Examples
 
+**AARP:** American Association of Retired Persons
+
 **JILA:** Joint Institute for Laboratory Astrophysics
 
 **KFC:** Kentucky Fried Chicken (https://en.wikipedia.org/wiki/KFC#cite_note-5)
