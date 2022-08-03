@@ -1,5 +1,5 @@
 # nacronym
-A nacronyms is a name that was formerly an acronym (https://www.urbandictionary.com/define.php?term=nacronym). The intent of this term is to describe names that remain after purposely shedding the original semantics of the spelled-out acronym. 
+A nacronym is a name that was formerly an acronym (https://www.urbandictionary.com/define.php?term=nacronym). The intent of this term is to describe names that remain after purposely shedding the original semantics of the spelled-out acronym. 
 
 ## Examples
 
