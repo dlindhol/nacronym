@@ -3,7 +3,15 @@ A nacronym is a name that was formerly an acronym (https://www.urbandictionary.c
 
 ## Examples
 
+**AAA:**: American Automobile Association
+
 **AARP:** American Association of Retired Persons
+
+**ACT Assessment:** American College Test
+
+**AT&T:** American Telephone & Telegraph Co.
+
+**FFA:** Future Farmers of America
 
 **JILA:** Joint Institute for Laboratory Astrophysics
 
@@ -14,5 +22,7 @@ A nacronym is a name that was formerly an acronym (https://www.urbandictionary.c
 **LLVM:** Low Level Virtual Machine
 
 **RMI:** Rocky Mountain Institute
+
+**SAT:** Scholastic Assessment Test (and before that, Scholastic Aptitude Test)
 
 **SBT:** Simple Build Tool
