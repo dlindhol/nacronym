@@ -3,8 +3,6 @@ A [`nacronym`](https://www.urbandictionary.com/define.php?term=nacronym) is a na
 
 ## Examples
 
-**AARP:** American Association of Retired Persons (though often spelled out)
-
 **JILA:** Joint Institute for Laboratory Astrophysics
 
 **LaTiS:** LASP Time Series Server
@@ -13,6 +11,8 @@ A [`nacronym`](https://www.urbandictionary.com/define.php?term=nacronym) is a na
 ## Other Orphan Initialisms
 
 **AAA:**: American Automobile Association
+
+**AARP:** American Association of Retired Persons
 
 **ACT:** American College Test (assessment test)
 
