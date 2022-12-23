@@ -7,6 +7,8 @@ A [`nacronym`](https://www.urbandictionary.com/define.php?term=nacronym) is a na
 
 **LaTiS:** LASP Time Series Server
 
+**Vrbo:** Vacation Rentals by Owner (https://www.wsj.com/articles/vrbo-changes-its-name-to-match-how-people-say-it-11553659260)
+
 
 ## Other Orphan Initialisms
 
